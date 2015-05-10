@@ -1,9 +1,14 @@
 @charset "UTF-8";
 @namespace epub "http://www.idpf.org/2007/ops";
 
-/* helpful during drafting */
-*[epub|type~="z3998:roman"],
-*[lang]:not(html),
-abbr{
-	background: #C0C0C0;
+section[epub|type~="chapter"],
+section[epub|type~="dedication"],
+section[epub|type~="part"] > h2{
+	page-break-after: always;
+}
+
+section[epub|type~="dedication"] p{
+	margin: 25% auto;
+	text-align: center;
+	text-indent: 0;
 }
