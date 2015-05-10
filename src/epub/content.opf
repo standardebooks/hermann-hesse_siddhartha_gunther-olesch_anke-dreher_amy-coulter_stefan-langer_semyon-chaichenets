@@ -3,7 +3,7 @@
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/hermann-hesse/siddhartha/gunther-olesch-anke-dreher-amy-coulter-stefan-langer-semyon-chaichenets</dc:identifier>
 		<dc:date>2014-05-25T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">2015-05-10T22:34:47Z</meta>
+		<meta property="dcterms:modified">2015-05-10T22:42:17Z</meta>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
 		<meta property="se:url.homepage" refines="#publisher">https://standardebooks.org</meta>
@@ -18,6 +18,13 @@
 		<link href="epub/onix.xml" rel="onix-record"/>
 		<dc:title id="title">Siddhartha</dc:title>
 		<meta property="file-as" refines="#title">Siddhartha</meta>
+		<meta property="title-type" refines="#title">main</meta>
+		<dc:title id="subtitle">An Indian Tale</dc:title>
+		<meta property="file-as" refines="#subtitle">Indian Tale, An</meta>
+		<meta property="title-type" refines="#subtitle">subtitle</meta>
+		<dc:title id="fulltitle">Siddhartha: An Indian Tale</dc:title>
+		<meta property="file-as" refines="#fulltitle">Siddhartha</meta>
+		<meta property="title-type" refines="#fulltitle">extended</meta>
 		<dc:subject id="subject-1">India -- Fiction</dc:subject>
 		<dc:subject id="subject-2">Gautama Buddha -- Fiction</dc:subject>
 		<dc:subject id="subject-3">Religious fiction</dc:subject>
