@@ -3,7 +3,7 @@
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/hermann-hesse/siddhartha/gunther-olesch-anke-dreher-amy-coulter-stefan-langer-semyon-chaichenets</dc:identifier>
 		<dc:date>2014-05-25T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">2015-05-11T01:08:28Z</meta>
+		<meta property="dcterms:modified">2015-05-12T05:40:55Z</meta>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
 		<meta property="se:url.homepage" refines="#publisher">https://standardebooks.org</meta>
@@ -45,9 +45,12 @@
 		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>http://www.gutenberg.org/ebooks/2500</dc:source>
-		<meta property="se:word-count">39670</meta>
+		<meta property="se:production-notes">Unfortunately this is a very poor translation, apparently produced by native German speakers with a mid-level command of colloquial English.  German syntatical style seems to prevail through much of the translation.  I've massaged the more egregious syntatical issues, as well as corrected some obvious typos and adjusted comma placement throughout.  Standard Ebooks should strive to find a better public-domain translation to replace this one.</meta>
+		<meta property="se:word-count">39667</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Siddhartha_%28novel%29</meta>
-		<meta property="se:url.vcs.github">https://github.com/standardebooks/hermann-hesse-siddhartha-gunther-olesch-anke-dreher-amy-coulter-stefan-langer-semyon-chaichenets</meta>
+		<meta property="se:url.vcs.github">https://github.com/standardebooks/hermann-hesse_siddhartha_gunther-olesch_anke-dreher_amy-coulter_stefan-langer_semyon-chaichenets
+</meta>
+		<meta property="se:url.vcs.github">https://github.com/standardebooks/hermann-hesse_siddhartha_gunther-olesch-anke-dreher-amy-coulter-stefan-langer-semyon-chaichenets</meta>
 		<dc:creator id="author">Hermann Hesse</dc:creator>
 		<meta property="file-as" refines="#author">Hesse, Hermann</meta>
 		<meta property="se:name.person.full-name" refines="#author">Hermann Hesse</meta>
