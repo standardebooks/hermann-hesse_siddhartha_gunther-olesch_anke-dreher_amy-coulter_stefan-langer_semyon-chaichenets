@@ -3,7 +3,7 @@
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/hermann-hesse/siddhartha/gunther-olesch-anke-dreher-amy-coulter-stefan-langer-semyon-chaichenets</dc:identifier>
 		<dc:date>2014-05-25T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">2015-05-10T23:04:31Z</meta>
+		<meta property="dcterms:modified">2015-05-11T01:08:28Z</meta>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
 		<meta property="se:url.homepage" refines="#publisher">https://standardebooks.org</meta>
@@ -37,7 +37,7 @@
 		<meta property="meta-auth" refines="#subject-5">http://www.gutenberg.org/ebooks/2500</meta>
 		<meta property="se:subject">Fiction</meta>
 		<meta property="se:subject">Spiritual</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<dc:description id="description">A man embarks on a spiritual journey through India.</dc:description>
 		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			LONGDESCRIPTION
@@ -45,7 +45,7 @@
 		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>http://www.gutenberg.org/ebooks/2500</dc:source>
-		<meta property="se:word-count">39658</meta>
+		<meta property="se:word-count">39670</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Siddhartha_%28novel%29</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/hermann-hesse-siddhartha-gunther-olesch-anke-dreher-amy-coulter-stefan-langer-semyon-chaichenets</meta>
 		<dc:creator id="author">Hermann Hesse</dc:creator>
