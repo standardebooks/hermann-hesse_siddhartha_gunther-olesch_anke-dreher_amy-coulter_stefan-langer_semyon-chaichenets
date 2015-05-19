@@ -2,7 +2,7 @@
 <package xmlns="http://www.idpf.org/2007/opf" prefix="cc: http://creativecommons.org/ns, se: http://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/hermann-hesse/siddhartha/gunther-olesch-anke-dreher-amy-coulter-stefan-langer-semyon-chaichenets</dc:identifier>
-		<dc:date>2014-05-25T00:00:00Z</dc:date>
+		<dc:date>2015-05-16T21:19:06Z</dc:date>
 		<meta property="dcterms:modified">2015-05-16T21:19:06Z</meta>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
