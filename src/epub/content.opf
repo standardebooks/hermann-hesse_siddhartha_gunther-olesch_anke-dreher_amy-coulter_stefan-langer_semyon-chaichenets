@@ -54,7 +54,7 @@
 		<dc:creator id="author">Hermann Hesse</dc:creator>
 		<meta property="file-as" refines="#author">Hesse, Hermann</meta>
 		<meta property="se:name.person.full-name" refines="#author">Hermann Hesse</meta>
-		<meta property="se:url.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Hermann_Hesse</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Hermann_Hesse</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<dc:contributor id="translator-1">Gunther Olesch</dc:contributor>
 		<meta property="file-as" refines="#translator-1">Olesch, Gunther</meta>
@@ -78,7 +78,7 @@
 		<meta property="role" refines="#translator-5" scheme="marc:relators">trl</meta>
 		<dc:contributor id="artist">Abanindranath Tagore</dc:contributor>
 		<meta property="file-as" refines="#artist">Tagore, Abanindranath</meta>
-		<meta property="se:url.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Abanindranath_Tagore</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Abanindranath_Tagore</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Michael Pullen</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Pullen, Michael</meta>
