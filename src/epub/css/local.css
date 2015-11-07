@@ -13,17 +13,9 @@ section[epub|type~="dedication"] p{
 	text-indent: 0;
 }
 
-div[epub|type~="z3998:verse"]{
-	margin: 1em;
-}
-
 *[epub|type~="z3998:verse"] p,
 *[epub|type~="z3998:verse"] + p{
 	text-indent: 0;
-}
-
-*[epub|type~="z3998:verse"] p + p{
-	margin-top: 1em;
 }
 
 *[epub|type~="z3998:verse"] p span{
