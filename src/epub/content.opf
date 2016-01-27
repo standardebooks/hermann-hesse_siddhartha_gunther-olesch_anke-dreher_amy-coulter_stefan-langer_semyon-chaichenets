@@ -3,7 +3,7 @@
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/hermann-hesse/siddhartha/gunther-olesch-anke-dreher-amy-coulter-stefan-langer-semyon-chaichenets</dc:identifier>
 		<dc:date>2015-05-16T21:19:06Z</dc:date>
-		<meta property="dcterms:modified">2016-01-08T06:23:03Z</meta>
+		<meta property="dcterms:modified">2016-01-27T19:40:47Z</meta>
 		<dc:rights>The source text and artwork in this ebook edition are believed to be in the U.S. public domain. This ebook edition is released under the terms in the CC0 1.0 Universal Public Domain Dedication, available at https://creativecommons.org/publicdomain/zero/1.0/. For full license information see the Uncopyright file included at the end of this ebook.</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -30,11 +30,11 @@
 		<dc:subject id="subject-3">Religious fiction</dc:subject>
 		<dc:subject id="subject-4">Buddhism -- Fiction</dc:subject>
 		<dc:subject id="subject-5">Buddhist philosophy -- Fiction</dc:subject>
-		<meta property="meta-auth" refines="#subject-1">http://www.gutenberg.org/ebooks/2500</meta>
-		<meta property="meta-auth" refines="#subject-2">http://www.gutenberg.org/ebooks/2500</meta>
-		<meta property="meta-auth" refines="#subject-3">http://www.gutenberg.org/ebooks/2500</meta>
-		<meta property="meta-auth" refines="#subject-4">http://www.gutenberg.org/ebooks/2500</meta>
-		<meta property="meta-auth" refines="#subject-5">http://www.gutenberg.org/ebooks/2500</meta>
+		<meta property="meta-auth" refines="#subject-1">https://www.gutenberg.org/ebooks/2500</meta>
+		<meta property="meta-auth" refines="#subject-2">https://www.gutenberg.org/ebooks/2500</meta>
+		<meta property="meta-auth" refines="#subject-3">https://www.gutenberg.org/ebooks/2500</meta>
+		<meta property="meta-auth" refines="#subject-4">https://www.gutenberg.org/ebooks/2500</meta>
+		<meta property="meta-auth" refines="#subject-5">https://www.gutenberg.org/ebooks/2500</meta>
 		<meta property="se:subject">Fiction</meta>
 		<meta property="se:subject">Spiritual</meta>
 		<dc:description id="description">A man embarks on a spiritual journey through India.</dc:description>
@@ -46,7 +46,7 @@
 		</meta>
 		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-GB</dc:language>
-		<dc:source>http://www.gutenberg.org/ebooks/2500</dc:source>
+		<dc:source>https://www.gutenberg.org/ebooks/2500</dc:source>
 		<meta property="se:production-notes">Unfortunately this is a very poor translation, apparently produced by native German speakers with a mid-level command of colloquial English.  German syntatical style is obvious throught much of the translation,rendering the English awkward at best and incomprehensible at worst.  I've massaged the more egregious syntatical issues, as well as corrected some obvious typos and removed some unnecessary commas throughout.  Standard Ebooks should strive to find a better public-domain translation to replace this one.</meta>
 		<meta property="se:word-count">39668</meta>
 		<meta property="se:reading-ease.flesch">66.57</meta>
