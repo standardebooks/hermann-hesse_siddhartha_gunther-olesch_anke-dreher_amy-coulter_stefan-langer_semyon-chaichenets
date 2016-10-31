@@ -3,8 +3,8 @@
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/hermann-hesse/siddhartha/gunther-olesch-anke-dreher-amy-coulter-stefan-langer-semyon-chaichenets</dc:identifier>
 		<dc:date>2015-05-16T21:19:06Z</dc:date>
-		<meta property="dcterms:modified">2016-05-19T21:59:31Z</meta>
-		<meta property="se:revision-number">39</meta>
+		<meta property="dcterms:modified">2016-10-31T20:11:26Z</meta>
+		<meta property="se:revision-number">40</meta>
 		<dc:rights>The source text and artwork in this ebook edition are believed to be in the U.S. public domain. This ebook edition is released under the terms in the CC0 1.0 Universal Public Domain Dedication, available at https://creativecommons.org/publicdomain/zero/1.0/. For full license information see the Uncopyright file included at the end of this ebook.</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -41,8 +41,8 @@
 		<dc:description id="description">A man embarks on a spiritual journey through India.</dc:description>
 		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;Hermann Hesse wrote &lt;i&gt;Siddhartha&lt;/i&gt; during a period in his life in which he suffered what he described as a &amp;ldquo;sickness with life.&amp;rdquo;  He claimed to be unable to complete the book because he had not experienced the kind of nirvana that Siddhartha, the main character, wants to achieve&amp;mdash;so Hesse surrounded himself with sacred Buddhist and Hindu teachings and lived as a reculse in order to complete this work.&lt;/p&gt;
-			&lt;p&gt;&lt;i&gt;Siddhartha&lt;/i&gt; is a short, simple tale of a man&amp;rsquo;s quest to achieve enlightenment and happiness.  Over twelve short chapters the reader follows Siddhartha through his time as a young adult, to his exploration of spirituality as a traveling ascetic, to his delvings in lust, business, and greed, to his time as an old man.  At each stage of his life Siddhartha yearns for nirvana, finally achieving it only after realizing that it&amp;rsquo;s all of life&amp;rsquo;s experiences that form it, not the teachings of any one man.&lt;/p&gt;
+			&lt;p&gt;Hermann Hesse wrote &lt;i&gt;Siddhartha&lt;/i&gt; during a period in his life in which he suffered what he described as a “sickness with life.”  He claimed to be unable to complete the book because he had not experienced the kind of nirvana that Siddhartha, the main character, wants to achieve—so Hesse surrounded himself with sacred Buddhist and Hindu teachings and lived as a reculse in order to complete this work.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;Siddhartha&lt;/i&gt; is a short, simple tale of a man’s quest to achieve enlightenment and happiness.  Over twelve short chapters the reader follows Siddhartha through his time as a young adult, to his exploration of spirituality as a traveling ascetic, to his delvings in lust, business, and greed, to his time as an old man.  At each stage of his life Siddhartha yearns for nirvana, finally achieving it only after realizing that it’s all of life’s experiences that form it, not the teachings of any one man.&lt;/p&gt;
 			&lt;p&gt;Today &lt;i&gt;Siddhartha&lt;/i&gt; remains an influential text in new Western spirituality.&lt;/p&gt;
 		</meta>
 		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
