@@ -3,8 +3,8 @@
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/hermann-hesse/siddhartha/gunther-olesch_anke-dreher_amy-coulter_stefan-langer_semyon-chaichenets</dc:identifier>
 		<dc:date>2015-05-16T21:19:06Z</dc:date>
-		<meta property="dcterms:modified">2017-09-22T21:34:00Z</meta>
-		<meta property="se:revision-number">55</meta>
+		<meta property="dcterms:modified">2017-09-25T18:09:49Z</meta>
+		<meta property="se:revision-number">56</meta>
 		<dc:rights>The source text and artwork in this ebook edition are believed to be in the U.S. public domain. This ebook edition is released under the terms in the CC0 1.0 Universal Public Domain Dedication, available at https://creativecommons.org/publicdomain/zero/1.0/. For full license information see the Uncopyright file included at the end of this ebook.</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -55,7 +55,7 @@
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/hermann-hesse_siddhartha_gunther-olesch_anke-dreher_amy-coulter_stefan-langer_semyon-chaichenets</meta>
 		<dc:creator id="author">Hermann Hesse</dc:creator>
 		<meta property="file-as" refines="#author">Hesse, Hermann</meta>
-		<meta property="se:name.person.full-name" refines="#author">Hermann Hesse</meta>
+		<meta property="se:name.person.full-name" refines="#author">Hermann Karl Hesse</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Hermann_Hesse</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n79006698</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
