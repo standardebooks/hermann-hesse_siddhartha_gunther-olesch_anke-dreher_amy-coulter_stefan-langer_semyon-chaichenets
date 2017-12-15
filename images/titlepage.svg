@@ -1,10 +1,36 @@
 <?xml version="1.0" encoding="utf-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 1400 710">
 	<title>The titlepage for the Standard Ebooks edition of Siddhartha, by Hermann Hesse. Translated by Gunther Olesch, Anke Dreher, Amy Coulter, Stefan Langer, and Semyon Chaichenets</title>
-	<text style="font-family:League Spartan;font-size:93.56725311px;letter-spacing:5px" text-anchor="middle" x="700" y="130">SIDDHARTHA</text>
-	<text style="font-family:League Spartan;font-size:70.17543793px;letter-spacing:5px" text-anchor="middle" x="700" y="290">HERMANN HESSE</text>
-	<text style="font-family:OFL Sorts Mill Goudy;font-size:42.5079689px;font-style:italic" text-anchor="middle" x="700" y="480">translated by</text>
-	<text style="font-family:League Spartan;font-size:46.78362656px;letter-spacing:5px" text-anchor="middle" x="700" y="540">GUNTHER OLESCH, ANKE DREHER,</text>
-	<text style="font-family:League Spartan;font-size:46.78362656px;letter-spacing:5px" text-anchor="middle" x="700" y="600">AMY COULTER, STEFAN LANGER,</text>
-	<text style="font-family:League Spartan;font-size:46.78362656px;letter-spacing:5px" text-anchor="middle" x="700" y="660">SEMYON CHAICHENETS</text>
+	<style type="text/css">
+		text{
+			font-family: League Spartan;
+			letter-spacing: 5px;
+			text-anchor: middle;
+		}
+
+		.title{
+			font-size: 93.56725311px;
+		}
+
+		.author{
+			font-size: 70.17543793px;
+		}
+
+		.contributor-descriptor{
+			font-family: OFL Sorts Mill Goudy;
+			font-size: 42.5079689px;
+			font-style: italic;
+			letter-spacing: 0;
+		}
+
+		.contributor{
+			font-size: 46.78362656px;
+		}
+	</style>
+	<text class="title" x="700" y="130">SIDDHARTHA</text>
+	<text class="author" x="700" y="290">HERMANN HESSE</text>
+	<text class="contributor-descriptor" x="700" y="480">translated by</text>
+	<text class="contributor" x="700" y="540">GUNTHER OLESCH, ANKE DREHER,</text>
+	<text class="contributor" x="700" y="600">AMY COULTER, STEFAN LANGER,</text>
+	<text class="contributor" x="700" y="660">AND SEMYON CHAICHENETS</text>
 </svg>
