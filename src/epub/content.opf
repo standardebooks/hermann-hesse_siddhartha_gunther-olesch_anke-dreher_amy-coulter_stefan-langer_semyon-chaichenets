@@ -3,8 +3,8 @@
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/hermann-hesse/siddhartha/gunther-olesch_anke-dreher_amy-coulter_stefan-langer_semyon-chaichenets</dc:identifier>
 		<dc:date>2015-05-16T21:19:06Z</dc:date>
-		<meta property="dcterms:modified">2018-11-11T19:46:14Z</meta>
-		<meta property="se:revision-number">71</meta>
+		<meta property="dcterms:modified">2018-12-14T17:54:07Z</meta>
+		<meta property="se:revision-number">72</meta>
 		<dc:rights>The source text and artwork in this ebook edition are believed to be in the U.S. public domain. This ebook edition is released under the terms in the CC0 1.0 Universal Public Domain Dedication, available at https://creativecommons.org/publicdomain/zero/1.0/. For full license information see the Uncopyright file included at the end of this ebook.</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -60,7 +60,7 @@
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/2500</dc:source>
 		<meta property="se:production-notes">Unfortunately this is a very poor translation, apparently produced by native German speakers with a mid-level command of colloquial English. German syntatical style is obvious throught much of the translation, rendering the English awkward at best and incomprehensible at worst. I've massaged the more egregious syntatical issues, as well as corrected some obvious typos and removed some unnecessary commas throughout. Standard Ebooks should strive to find a better public-domain translation to replace this one.</meta>
-		<meta property="se:word-count">39670</meta>
+		<meta property="se:word-count">39672</meta>
 		<meta property="se:reading-ease.flesch">66.57</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Siddhartha_%28novel%29</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/hermann-hesse_siddhartha_gunther-olesch_anke-dreher_amy-coulter_stefan-langer_semyon-chaichenets</meta>
