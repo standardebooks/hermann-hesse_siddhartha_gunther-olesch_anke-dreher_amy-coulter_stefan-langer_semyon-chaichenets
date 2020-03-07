@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<se-lint-ignore>
+	<file path="content.opf">
+		<ignore>
+			<code>s-020</code>
+			<reason>The matched front matter is actually front matter for the 2nd volume, therefore a preceding half title is not required.</reason>
+		</ignore>
+	</file>
+</se-lint-ignore>
