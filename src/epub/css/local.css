@@ -13,8 +13,8 @@ section[epub|type~="dedication"] p{
 	text-indent: 0;
 }
 
-[epub|type~="z3998:verse"] p,
-[epub|type~="z3998:verse"] + p{
+[epub|type~="z3998:verse"] p{
+	text-align: left;
 	text-indent: 0;
 }
 
